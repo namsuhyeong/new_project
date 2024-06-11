@@ -1,8 +1,9 @@
+import os
 import streamlit as st
 import streamlit.components.v1 as components
 
 # HTML 파일 경로
-html_file_path = 'lda_positive (1).html'
+html_file_path = os.path.join(os.path.dirname(__file__), 'lda_positive (1).html')
 
 # HTML 파일 읽기
 with open(html_file_path, 'r', encoding='utf-8') as file:
