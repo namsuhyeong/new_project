@@ -1,8 +1,9 @@
+import os
 import streamlit as st
 import streamlit.components.v1 as components
 
 # HTML 파일 경로
-html_file_path = 'lda_negative (1).html'
+html_file_path = os.path.join(os.path.dirname(__file__), 'lda_negative (1).html')
 
 # HTML 파일 읽기
 with open(html_file_path, 'r', encoding='utf-8') as file:
@@ -13,3 +14,4 @@ st.title("LDA 부정 토픽 모델링 결과")
 
 # HTML 콘텐츠 삽입
 components.html(html_content, height=1000, width=1200, scrolling=True)
+
