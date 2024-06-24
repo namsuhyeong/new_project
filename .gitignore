@@ -1,19 +1,14 @@
 /.conda
 /.ipynb_checkpoints
 /04_텍스트마이닝__PART1.ipynb
-/Ali_sport_enter_web.ipynb
-/Ali_sport_enter_web_ver_02.ipynb
 /bert_model.ipynb
-/bert_model_2.ipynb
 /bert모델.csv
 /bert모델02.csv
 /bert모델03.csv
 /bert모델LDA.ipynb
 /bert모델긍정부정.csv
 /chrome-win64
-/combined_word_list.txt
 /comments_수형님.txt
-/df_review_count_2ndProject_댓글전처리완료데이터_김원.csv
 /hugging_face_LDA.ipynb
 /hugging_face_모델.csv
 /important_negative_df.csv
@@ -27,16 +22,7 @@
 /nouns_with_freq_hug.csv
 /review+_labeling_data.csv
 /review_list_label.csv
-/TextMining_06_텍스트_마이닝_감성분석_TETO.ipynb
-/text_mining_2nd_1조_김원_v2.ipynb
-/text_mining_전처리_2nd_1조_김원_v3.ipynb
-/TF_IDF_ConCor.ipynb
-/TF_IDF_ConCor_clean (1).ipynb
-/TF_IDF_ConCor_clean.ipynb
-/weblda.ipynb
 /word_list.txt
-/가격파이차트_수형.ipynb
-/가격파이차트_전체.ipynb
 /로지스틱회기분석_v1.ipynb
 /붙어넣을html.txt
 /수형_lda.pptx
@@ -54,7 +40,6 @@
 /컴퓨터오피스_v01.csv
 /텍스트마이닝.ipynb
 /텍스트마이닝_v2.ipynb
-/텍스트마이닝_ver02.ipynb
 /플젝2 시나리오.v2_0517.pdf
 /휴대폰통신_v01.csv
 /lda 분석발표스크립트.txt
